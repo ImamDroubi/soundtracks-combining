@@ -1,0 +1,49 @@
+{
+  "tracks": [
+    {
+      "name": "Rain sound",
+      "link": "https://res.cloudinary.com/imamdroubi/video/upload/v1684425256/rain_pbkj24.ogg",
+      "volume": "100",
+      "id": 6
+    },
+    {
+      "name": "Thunder",
+      "link": "https://res.cloudinary.com/imamdroubi/video/upload/v1684425445/thunder_bkgzwf.ogg",
+      "volume": "100",
+      "id": 7
+    },
+    {
+      "name": "Campfire",
+      "link": "https://res.cloudinary.com/imamdroubi/video/upload/v1684425429/campfire_u4mt2d.ogg",
+      "volume": "100",
+      "id": 8
+    },
+    {
+      "name": "Wind",
+      "link": "https://res.cloudinary.com/imamdroubi/video/upload/v1684425450/wind_rujvmt.ogg",
+      "volume": "100",
+      "id": 9
+    }
+  ],
+  "currentTracks": [
+    {
+      "name": "Rain sound",
+      "link": "https://res.cloudinary.com/imamdroubi/video/upload/v1684425256/rain_pbkj24.ogg",
+      "volume": "100",
+      "id": 1
+    },
+    {
+      "name": "Thunder",
+      "link": "https://res.cloudinary.com/imamdroubi/video/upload/v1684425445/thunder_bkgzwf.ogg",
+      "volume": "100",
+      "id": 2
+    },
+    {
+      "name": "Ocean",
+      "link": "https://res.cloudinary.com/imamdroubi/video/upload/v1684425447/ocean_cz5kzy.ogg",
+      "volume": 50,
+      "id": 3
+    }
+  ],
+  "collections": []
+}

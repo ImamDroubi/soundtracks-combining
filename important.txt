@@ -1,0 +1,7 @@
+=====Database=====
+>To use the db.json data in the src folder, you have to watch it with json-server on port 9000
+>Install json-server "npm install -g json-server"
+>When you are in src folder , run the command "json-server --watch db.json --port 9000"
+
+=====Adding your own tracks=====
+>You need to provide a link to a sound file where nothing else is on the page, ex : "https://res.cloudinary.com/imamdroubi/video/upload/v1684425447/ocean_cz5kzy.ogg"
